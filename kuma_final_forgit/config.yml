@@ -1,0 +1,16 @@
+s3:
+    access_key_id: 'AKIAJ3DNBKF4UES7SZLA'
+    secret_access_key: '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'
+    bucket_name: 'iot-ay1819s2'
+    
+
+image_settings:
+    horizontal_res: 800
+    vertical_res: 400
+    file_name: 'test'
+    file_extension: '.jpg'
+    folder_name: 'images'
+    awb_mode: 'auto'
+    photo_interval: 10
+
+debug: true
