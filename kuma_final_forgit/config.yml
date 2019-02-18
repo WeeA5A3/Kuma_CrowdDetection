@@ -1,7 +1,7 @@
 s3:
-    access_key_id: 'AKIAJ3DNBKF4UES7SZLA'
-    secret_access_key: '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'
-    bucket_name: 'iot-ay1819s2'
+    access_key_id: '<ACCESS KEY>'
+    secret_access_key: '<SECRET KEY'
+    bucket_name: '<bucket name>'
     
 
 image_settings:
