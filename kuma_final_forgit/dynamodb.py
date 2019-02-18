@@ -129,8 +129,8 @@ def respondToMsg(msg):
 	command = msg['text']
 	CarOneCountLevel = ''
 	CarTwoCountLevel = ''
-	countCarOne = getLatestRecordCarOne()
-	countCarTwo = getLatestRecordCarTwo()
+	countCarOne = int(getLatestRecordCarOne())
+	countCarTwo = int(getLatestRecordCarTwo())
 	if command == '/status':		
 		tempList = getHumidityTempAll()
 		record = []
