@@ -1,6 +1,6 @@
 s3:
     access_key_id: '<ACCESS KEY>'
-    secret_access_key: '<SECRET KEY'
+    secret_access_key: '<SECRET KEY>'
     bucket_name: '<bucket name>'
     
 
